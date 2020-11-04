@@ -28,3 +28,9 @@
     left: 0;
     top: 0;
 }
+/* 顶部样式 */
+.bottomBox{
+    padding: 40px 0;
+    background: darkblue;
+    color: #fff;
+}
